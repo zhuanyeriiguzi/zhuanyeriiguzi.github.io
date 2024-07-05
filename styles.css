@@ -16,18 +16,18 @@ body {
 }
 
 #stars {
-    background: url('https://raw.githubusercontent.com/KenHarkey/stars/master/starry_night.jpg') repeat top center;
+    background: url('https://th.bing.com/th/id/R.e3ef0f3cb8a010df88ab5539ba520fea?rik=4tsjAQ1blWRZGg&riu=http%3a%2f%2fupstartfromforty.net%2fwp-content%2fuploads%2f2017%2f05%2f463725.jpg&ehk=WNzKO3OjFal34tD%2bgE4kwgUuLegqJSi0FWC457NZHHg%3d&risl=&pid=ImgRaw&r=0') repeat top center;
     animation: animStar 50s linear infinite;
 }
 
 #stars2 {
-    background: url('https://raw.githubusercontent.com/KenHarkey/stars/master/starry_night.jpg') repeat top center;
+    background: url('https://th.bing.com/th/id/R.e3ef0f3cb8a010df88ab5539ba520fea?rik=4tsjAQ1blWRZGg&riu=http%3a%2f%2fupstartfromforty.net%2fwp-content%2fuploads%2f2017%2f05%2f463725.jpg&ehk=WNzKO3OjFal34tD%2bgE4kwgUuLegqJSi0FWC457NZHHg%3d&risl=&pid=ImgRaw&r=0') repeat top center;
     animation: animStar 100s linear infinite;
     opacity: 0.5;
 }
 
 #stars3 {
-    background: url('https://raw.githubusercontent.com/KenHarkey/stars/master/starry_night.jpg') repeat top center;
+    background: url('https://th.bing.com/th/id/R.e3ef0f3cb8a010df88ab5539ba520fea?rik=4tsjAQ1blWRZGg&riu=http%3a%2f%2fupstartfromforty.net%2fwp-content%2fuploads%2f2017%2f05%2f463725.jpg&ehk=WNzKO3OjFal34tD%2bgE4kwgUuLegqJSi0FWC457NZHHg%3d&risl=&pid=ImgRaw&r=0') repeat top center;
     animation: animStar 150s linear infinite;
     opacity: 0.3;
 }
