@@ -10,7 +10,7 @@ function updateTimeElapsed() {
     const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
 
-    timeElapsedElement.innerText = `çùçùÓë³¿³¿ÏàÓöµÄ ${days} Ìì ${hours} Ê± ${minutes} ·Ö ${seconds} Ãë`;
+    timeElapsedElement.innerText = `ç¦ç¦ä¸æ™¨æ™¨ç›¸é‡çš„ ${days} å¤© ${hours} æ—¶ ${minutes} åˆ† ${seconds} ç§’`;
 }
 
 setInterval(updateTimeElapsed, 1000);
